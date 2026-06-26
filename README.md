@@ -7,7 +7,7 @@ This project applies Machine Learning techniques to analyze and predict customer
 * **File:** `Telco_customer_churn.xlsx` (or `.csv` equivalent)
 * **Description:** The dataset contains customer demographic information, account details, subscribed services, and whether or not the customer churned. 
 
-## 🛠️ Technologies & Libraries Used
+## Technologies & Libraries Used
 * **Programming Language:** Python 3
 * **Data Manipulation & Analysis:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
